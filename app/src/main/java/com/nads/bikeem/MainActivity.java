@@ -113,7 +113,7 @@ public class MainActivity extends AppCompatActivity {
 
             // Check if user triggered a refresh:
             case R.id.menu_refresh:
-                Log.i(LOG_TAG, "Refresh menu item selected");
+                Log.i(LOG_TAG, "Refresh menu item selected by nadeem");
 
                 // Signal SwipeRefreshLayout to start the progress indicator
                 // Start the refresh background task.
