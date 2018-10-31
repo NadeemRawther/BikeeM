@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Bike\'eM</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="textview">TextView</string>
+    <string name="banner_ad_unit_id">ca-app-pub-2991702481825090/1104313900</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu_refresh">Refresh</string>
+</resources>
